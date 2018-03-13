@@ -1,0 +1,32 @@
+.option-box{
+    background: none;
+    border: 2px solid #48a084;
+    height: 200px;
+    width: 200px;
+}
+
+#message-display {
+    background-color: aliceblue;
+    height: 300px;
+    margin: 20px auto;
+    width: 45%;
+}
+
+#message-here{
+   
+    height: 30px;
+    margin: 20px auto;
+    width: 45%
+}
+
+#message-here textarea{
+    width: 91%;
+}
+
+#submit-button{
+}
+
+body{
+    background-image: url(http://b7909b6285786ceb789f-519505659477c1a932c00c01d7894ae5.r45.cf2.rackcdn.com/product-original-65983-19322-1355123307-18f19280cfd1df4d7f67d1f6cd3831c7.jpg);
+    background-size: cover;
+}
